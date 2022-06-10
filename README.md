@@ -1,3 +1,8 @@
+# 演示视频
+## 链接：https://pan.baidu.com/s/17N1wJFV9rveMI4XpVmH3Mw?pwd=cfl1 
+## 提取码：cfl1
+![二维码](/assets/images/display%20vedio.png)
+
 # 项目介绍与分工
 ## 项目背景和痛点
 
